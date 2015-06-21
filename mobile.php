@@ -16,6 +16,7 @@
     </head>
     <body>
         <div id="wrapper">
+            <div id="logo"><img width="50" src="./img/Poweredby_100px_Badge.gif" /></div>
             <form>
                 <input id="textbox" placeholder="Type a sentence and press enter."/>
             </form>

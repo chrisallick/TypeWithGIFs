@@ -13,9 +13,11 @@
         <script src='./js/plugins.js' type='text/javascript'></script>
         <script src='./js/keypress-2.1.0.min.js' type='text/javascript'></script>
     </head>
-    
+
     <body>
+        
         <div id="wrapper">
+            <div id="logo"><img width="50" src="./img/Poweredby_100px_Badge.gif" /></div>
             <form>
                 <input id="textbox" placeholder="Type a sentence and press enter."/>
             </form>
